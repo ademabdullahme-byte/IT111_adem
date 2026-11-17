@@ -8,7 +8,7 @@ data1 = {
     'age':'36',
     'city':'omaha, NE',
     'interests':['DIY', 'bull riding', 'history'],
-    'is_student': False,
+    'is_student': False
 }
 
 
