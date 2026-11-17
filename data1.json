@@ -1,0 +1,11 @@
+{
+    "name": "Mr bob",
+    "age": "36",
+    "city": "omaha, NE",
+    "interests": [
+        "DIY",
+        "bull riding",
+        "history"
+    ],
+    "is_student": false
+}
